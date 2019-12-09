@@ -25,3 +25,4 @@ This repository contains the solutions to the codechef problems that I have solv
 - **[NUKES](https://www.codechef.com/problems/NUKES)** - Nuclear Reactors
 - **[SC31](https://www.codechef.com/problems/SC31)** - Weapon Value
 - **[TEST](https://www.codechef.com/problems/TEST)** - Life, the Universe, and Everything
+- **[WATSCORE](https://www.codechef.com/problems/WATSCORE)** - That Is My Score!
