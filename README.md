@@ -4,7 +4,7 @@ This repository contains the solutions to the codechef problems that I have solv
 ## How To Test  
 1. All the codes can be directly imported as Pycharm Project.  
 2. You can also simply run the main file from Python terminal
----
+
 ## Problems
 - **[ALTARAY](https://www.codechef.com/problems/ALTARAY)** - Alternating subarray prefix
 - **[CATFEED](https://www.codechef.com/problems/CATFEED)** - Chef Feeds Cats
