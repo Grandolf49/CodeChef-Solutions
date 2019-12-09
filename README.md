@@ -23,6 +23,7 @@ This repository contains the solutions to the codechef problems that I have solv
 - **[INTEST](https://www.codechef.com/problems/INTEST)** - Enormous Input Test
 - **[MAXDIFF](https://www.codechef.com/problems/MAXDIFF)** - Maximum Weight Difference
 - **[NUKES](https://www.codechef.com/problems/NUKES)** - Nuclear Reactors
+- **[PLMU](https://www.codechef.com/problems/PLMU)** - Plus Multiply
 - **[SC31](https://www.codechef.com/problems/SC31)** - Weapon Value
 - **[TEST](https://www.codechef.com/problems/TEST)** - Life, the Universe, and Everything
 - **[WATSCORE](https://www.codechef.com/problems/WATSCORE)** - That Is My Score!
