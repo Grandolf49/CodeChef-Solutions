@@ -4,8 +4,9 @@ This repository contains the solutions to the codechef problems that I have solv
 
 ## How To Test  
 
-1. All the codes can be directly imported as Pycharm Project.  
-2. You can also simply run the main file from Python terminal
+1. Clone the project
+2. Open the folder in Pycharm
+3. Run any code you like! :)
 
 ## Problems
 
