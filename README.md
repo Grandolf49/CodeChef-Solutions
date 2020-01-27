@@ -26,6 +26,7 @@ This repository contains the solutions to the codechef problems that I have solv
 - **[NUKES](https://www.codechef.com/problems/NUKES)** - Nuclear Reactors
 - **[PLMU](https://www.codechef.com/problems/PLMU)** - Plus Multiply
 - **[SC31](https://www.codechef.com/problems/SC31)** - Weapon Value
+- **[STFOOD](https://www.codechef.com/problems/STFOOD)** - Chef and Street Food
 - **[SUBSPLAY](https://www.codechef.com/problems/SUBSPLAY)** - Easy Subsequence Selection
 - **[TEST](https://www.codechef.com/problems/TEST)** - Life, the Universe, and Everything
 - **[WATSCORE](https://www.codechef.com/problems/WATSCORE)** - That Is My Score!
