@@ -14,6 +14,7 @@ This repository contains the solutions to the codechef problems that I have solv
 - **[CATFEED](https://www.codechef.com/problems/CATFEED)** - Chef Feeds Cats
 - **[CHEFZOT](https://www.codechef.com/problems/CHEFZOT)** - Chef and Subarray
 - **[CHFCHK](https://www.codechef.com/problems/CHFCHK)** - Chef Chick
+- **[CHFDORA](https://www.codechef.com/problems/CHFDORA)** - Doraemon
 - **[CHFM](https://www.codechef.com/problems/CHFM)** - Chef and Mean
 - **[CIELAB](https://www.codechef.com/problems/CIELAB)** - Ciel and A-B Problem
 - **[COKE](https://www.codechef.com/problems/COKE)** - Chef Drinks Coke
