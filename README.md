@@ -11,6 +11,7 @@ This repository contains the solutions to the codechef problems that I have solv
 
 - **[ALTARAY](https://www.codechef.com/problems/ALTARAY)** - Alternating subarray prefix
 - **[BFRIEND](https://www.codechef.com/problems/BFRIEND)** - Bob and His Friends
+- **[BINADD](https://www.codechef.com/problems/BINADD)** - Addition
 - **[BRKBKS](https://www.codechef.com/problems/BRKBKS)** - Breaking Bricks
 - **[CATFEED](https://www.codechef.com/problems/CATFEED)** - Chef Feeds Cats
 - **[CHEFZOT](https://www.codechef.com/problems/CHEFZOT)** - Chef and Subarray
