@@ -18,6 +18,7 @@ This repository contains the solutions to the codechef problems that I have solv
 - **[COKE](https://www.codechef.com/problems/COKE)** - Chef Drinks Coke
 - **[CONFLIP](https://www.codechef.com/problems/CONFLIP)** - Coin Flip
 - **[DIVIDING](https://www.codechef.com/problems/DIVIDING)** - Dividing Stamps
+- **[EXAMCHT](https://www.codechef.com/problems/EXAMCHT)** - Exam Cheating
 - **[FCTRL](https://www.codechef.com/problems/FCTRL)** - Factorial
 - **[HORSES](https://www.codechef.com/problems/HORSES)** - Racing Horses
 - **[HS08TEST](https://www.codechef.com/problems/HS08TEST)** - ATM
