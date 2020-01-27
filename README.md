@@ -10,6 +10,7 @@ This repository contains the solutions to the codechef problems that I have solv
 ## Problems
 
 - **[ALTARAY](https://www.codechef.com/problems/ALTARAY)** - Alternating subarray prefix
+- **[BFRIEND](https://www.codechef.com/problems/BFRIEND)** - Bob and His Friends
 - **[CATFEED](https://www.codechef.com/problems/CATFEED)** - Chef Feeds Cats
 - **[CHEFZOT](https://www.codechef.com/problems/CHEFZOT)** - Chef and Subarray
 - **[CHFM](https://www.codechef.com/problems/CHFM)** - Chef and Mean
