@@ -2,7 +2,7 @@
 
 This repository contains the solutions to the codechef problems that I have solved. Only accepted solutions are present in this repository
 
-## How To Test  
+## How To Run  
 
 1. Clone the project
 2. Open the folder in Pycharm
