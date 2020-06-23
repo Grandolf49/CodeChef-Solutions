@@ -21,11 +21,11 @@ This repository contains the solutions to the codechef problems that I have solv
 
 ## Strings
 
-- **[SUBSPLAY](https://www.codechef.com/problems/SUBSPLAY)** - Easy Subsequence Selection
+- **[SUBSPLAY](https://www.codechef.com/problems/SUBSPLAY)** - Easy Subsequence Selection **(Tricky)**
 
 ## Mathematics
 
-- **[FCTRL](https://www.codechef.com/problems/FCTRL)** - Factorial
+- **[FCTRL](https://www.codechef.com/problems/FCTRL)** - Factorial **(Tricky)**
 - **[DYNAMO](https://www.codechef.com/problems/DYNAMO)** - Chef and Dynamo
 - **[CHFM](https://www.codechef.com/problems/CHFM)** - Chef and Mean
 - **[CONFLIP](https://www.codechef.com/problems/CONFLIP)** - Coin Flip
