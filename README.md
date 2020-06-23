@@ -10,11 +10,21 @@ This repository contains the solutions to the codechef problems that I have solv
 
 ## Arrays and Matrices
 
-- **[BFRIEND](https://www.codechef.com/problems/BFRIEND)** - Bob and His Friends
-- **[CATFEED](https://www.codechef.com/problems/CATFEED)** - Chef Feeds Cats
-- **[CHFCHK](https://www.codechef.com/problems/CHFCHK)** - Chef Chick **(Tricky)**
-- **[CHFDORA](https://www.codechef.com/problems/CHFDORA)** - Doraemon **(Implementation)**
-- **[COKE](https://www.codechef.com/problems/COKE)** - Chef Drinks Coke
+- Bob and His Friends
+  - Problem: **[BFRIEND](https://www.codechef.com/problems/BFRIEND)**
+  - **[Solution](https://github.com/Grandolf49/CodeChef-Solutions/blob/master/BFRIEND.py)**
+- Chef Feeds Cats
+  - Problem: **[CATFEED](https://www.codechef.com/problems/CATFEED)**
+  - **[Solution](https://github.com/Grandolf49/CodeChef-Solutions/blob/master/CATFEED.py)**
+- Chef Chick **(Tricky)**
+  - **[CHFCHK](https://www.codechef.com/problems/CHFCHK)**
+  - **[Solution](https://github.com/Grandolf49/CodeChef-Solutions/blob/master/CHFCHK.py)**
+- Doraemon **(Implementation)**
+  - **[CHFDORA](https://www.codechef.com/problems/CHFDORA)**
+  - **[Solution](https://github.com/Grandolf49/CodeChef-Solutions/blob/master/CHFDORA.py)**
+- Chef Drinks Coke
+  - **[COKE](https://www.codechef.com/problems/COKE)**
+  - **[Solution](https://github.com/Grandolf49/CodeChef-Solutions/blob/master/COKE.py)**
 - **[MAXDIFF](https://www.codechef.com/problems/MAXDIFF)** - Maximum Weight Difference
 - **[NUKES](https://www.codechef.com/problems/NUKES)** - Nuclear Reactors
 - **[PLMU](https://www.codechef.com/problems/PLMU)** - Plus Multiply
